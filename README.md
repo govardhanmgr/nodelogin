@@ -1,16 +1,16 @@
-#prequisites to instal
+# prequisites to instal
 
 Node from web
 
 npm from web
 
-##nodemon for going live
+## nodemon for going live
 
 npm i nodemon
 
 
 
-##express Controller and its modules
+## express Controller and its modules
 
 
 npm i epxress
@@ -19,28 +19,28 @@ npm i express-flash
 
 
 
-##ejs framework for frontend
+## ejs framework for frontend
 
 npm i ejs
 
 
-##dot env and pg database
+## dot env and pg database
 
 npm i dotenv pg
 
 
-##bcrypt for hashing password
+## bcrypt for hashing password
 
 npm i bcrypt
 
 
-##passport and its modules for authenticate user
+## passport and its modules for authenticate user
 
 npm i passport passport-local
 
 
 
-#To run project
+# To run project
 
 npm run dev
 
